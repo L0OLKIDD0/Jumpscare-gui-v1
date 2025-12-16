@@ -40,7 +40,7 @@ JGuiv1.TextSize = 14.000
 JGuiv1.TextWrapped = true
  
 BYL0OLKIDD0.Name = "BYL0OLKIDD0"
-BYL0OLKIDD0.Parent = MadeByRedkidd95
+BYL0OLKIDD0.Parent = MadeByL0OLKIDD0
 BYL0OLKIDD0.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 BYL0OLKIDD0.BackgroundTransparency = 1.000
 BYL0OLKIDD0.BorderColor3 = Color3.fromRGB(0, 0, 0)
