@@ -26,7 +26,7 @@ MadeByL0OLKIDD0.Position = UDim2.new(0.303658545, 0, 0.0934959352, 0)
 MadeByL0OLKIDD0.Size = UDim2.new(0, 376, 0, 344)
  
 JGuiv1.Name = "JGuiv1"
-JGuiv1.Parent = MadeByRedkidd95
+JGuiv1.Parent = MadeByL0OLKIDD0
 JGuiv1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 JGuiv1.BackgroundTransparency = 1.000
 JGuiv1.BorderColor3 = Color3.fromRGB(0, 0, 0)
